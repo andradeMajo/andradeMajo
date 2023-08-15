@@ -1,4 +1,4 @@
-<h1 align="center">Hi stalker 👋,</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
 ![me](https://user-images.githubusercontent.com/101062799/190705281-f2c19cdd-1a48-4214-8c07-12ef1d42b810.png)
